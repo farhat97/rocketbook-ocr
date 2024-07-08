@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/rocketbook-ocr.props" />
-</Project>
