@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lb8d5JYn3DLdA+Jd5qzVj6WYpJgoB7yuNhNZNQhqlL4=",
+  "Source": "rocketbook-ocr",
+  "BasePath": "_content/rocketbook-ocr",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

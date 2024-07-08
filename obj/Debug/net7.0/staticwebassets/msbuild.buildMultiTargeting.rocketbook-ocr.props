@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/rocketbook-ocr.props" />
+</Project>
